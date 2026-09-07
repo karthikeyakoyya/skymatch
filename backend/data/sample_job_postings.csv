@@ -1,0 +1,18 @@
+job_id,title,company,sector,jd_text
+1000,Data Analyst - Network Ops,SkyLine Airways,Aviation & Travel Tech,Analyze flight punctuality and delay drivers using SQL and Python. Build dashboards in Power BI and Looker Studio for ops leadership. Experience with statistics and predictive modeling for delay risk preferred.
+1001,ML Engineer - Revenue Systems,BluePeak Airlines,Aviation & Travel Tech,"Build machine learning models for fare and demand forecasting using Python, scikit-learn and PyTorch. Deploy models with MLflow and Docker on AWS. SQL and data warehousing experience with Snowflake a plus."
+1002,Data Scientist - Customer Experience,AeroNova Group,Aviation & Travel Tech,"Use NLP and GenAI (LLM, OpenAI API) to analyze customer feedback at scale. Python, pandas and statistics required. Databricks experience preferred."
+1003,BI Developer - Operations,SkyLine Airways,Aviation & Travel Tech,Build SQL-driven data warehousing pipelines and Power BI dashboards tracking on-time performance across the network.
+1004,Applied Scientist - Ops Forecasting,BluePeak Airlines,Aviation & Travel Tech,"Deep learning and statistics for turnaround-time and crew-scheduling forecasting. PyTorch, Python, MLOps, CI/CD for model deployment."
+1005,Data Analyst,Northfield Retail,Data & Analytics,"SQL, Python, Power BI, data visualization. Statistics fundamentals."
+1006,Data Scientist,Vertex Health,Data & Analytics,"Machine learning, scikit-learn, statistics, SQL, Databricks."
+1007,Analytics Engineer,Northfield Retail,Data & Analytics,"Data warehousing on Snowflake, SQL, dbt-style transformations, Python."
+1008,ML Engineer,Cascade Fintech,Data & Analytics,"PyTorch, MLOps, MLflow, Docker, CI/CD, AWS."
+1009,GenAI Engineer,Cascade Fintech,Data & Analytics,"LLM integration, OpenAI API, GenAI, Python, FastAPI."
+1010,Backend Engineer,Meridian Labs,Software Engineering,"Python, Django, Django REST Framework, PostgreSQL, Docker, REST APIs."
+1011,Platform Engineer,Meridian Labs,Software Engineering,"Celery, Redis, Docker Compose, CI/CD, AWS, Git."
+1012,Full Stack Engineer,Orbital Systems,Software Engineering,"Python, FastAPI, REST APIs, SQL, Git, JWT authentication."
+1013,DevOps Engineer,Orbital Systems,Software Engineering,"Docker, Docker Compose, CI/CD, AWS, Azure, MLOps for model pipelines."
+1014,Risk Analyst,Harborview Capital,Finance & Risk,"Statistics, SQL, Python, Isolation Forest, anomaly detection."
+1015,Quant Data Scientist,Harborview Capital,Finance & Risk,"Machine learning, scikit-learn, statistics, Python, SQL."
+1016,Fraud Detection Engineer,Ledger & Co,Finance & Risk,"Isolation Forest, decision trees, Python, MLOps, MLflow."

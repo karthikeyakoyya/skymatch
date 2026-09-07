@@ -1,0 +1,23 @@
+Karthikeya Koyya - Skill Profile
+
+Core: Python, SQL, Git, REST APIs, JWT Authentication, pytest, CI/CD basics
+
+Backend: Django, Django REST Framework, FastAPI, Celery, Redis, Docker, Docker Compose,
+PostgreSQL, MySQL, SQLite, Gunicorn
+
+Data & Cloud: Google BigQuery, AWS, Power BI, Looker Studio, Chart.js, Matplotlib,
+data warehousing, dimensional modeling
+
+Machine Learning & Deep Learning: scikit-learn, PyTorch, Isolation Forest, Decision Trees,
+TF-IDF, Naive Bayes, CNN, MobileNetV2, YOLOv8, statistics, predictive modeling,
+anomaly detection
+
+GenAI: OpenAI API integration, LLM output evaluation with ROUGE and BLEU metrics
+
+Projects: Grid Guardian (Django/DRF/Celery/Redis/Docker Compose utility platform),
+Smart Attendance Tracker (FastAPI, Docker, AWS, JWT), KYC/AML Risk Detection
+(Isolation Forest, risk scoring, Streamlit), Warehouse Inventory Auditor
+(YOLOv8, ByteTrack, computer vision), Cervical Cytology Cell Classifier
+(MobileNetV2, TorchScript, 89% accuracy), GenAI Eval Infra (OpenAI API,
+ROUGE/BLEU evaluation pipeline), E-Commerce Data Warehouse (BigQuery, Looker
+Studio, 112,650+ order records).
