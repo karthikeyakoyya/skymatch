@@ -1,4 +1,4 @@
-# SkyMatch — Job Market Intelligence Engine
+# SkyMatch  Job Market Intelligence Engine
 
 SkyMatch is a personal tool that scores how well your own skill profile matches
 a job description, and separately shows which skills are most in demand across
@@ -8,19 +8,19 @@ analysis you'd otherwise do by hand for every posting.
 
 ## What it actually does
 
-1. **JD match scoring** — paste any job description. SkyMatch extracts
+1. **JD match scoring** paste any job description. SkyMatch extracts
    canonical skills from a taxonomy (`backend/skills_taxonomy.py`), checks
    overlap against your profile, and blends that with a TF-IDF cosine
    similarity score over the full text. Both sub-scores are shown separately
    so the number isn't a black box.
-2. **Market intelligence** — aggregates skill frequency across a small
+2. **Market intelligence**  aggregates skill frequency across a small
    sample dataset of job postings, broken down by sector (including an
    Aviation & Travel Tech vertical). **This dataset is synthetic and
-   illustrative, not scraped real-world data** — see
+   illustrative, not scraped real-world data** see
    `backend/generate_sample_data.py`. Swap in a real postings corpus
    (e.g. a Kaggle job-postings dataset) to make this panel reflect actual
    market conditions.
-3. **Experiment tracking** — every match run logs its scoring weights and
+3. **Experiment tracking** every match run logs its scoring weights and
    results to MLflow (`backend/tracking.py`), so if you retune the
    skill/text blend later, you have a real run history instead of guessing.
 
@@ -65,7 +65,7 @@ the frontend — it's a static file that calls the API at
   Both are real, working, and honestly scoped — neither pretends to be more
   than it is.
 - If you extend this to ingest a real postings corpus, the aggregation code
-  in `app.py`'s `/api/market` endpoint doesn't need to change — only
+  in `app.py`'s `/api/market` endpoint doesn't need to change only
   `sample_job_postings.csv` does.
 
 ## Extending it
